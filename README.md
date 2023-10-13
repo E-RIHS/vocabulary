@@ -15,3 +15,31 @@ At this time the primary focus of this work will be related to the generation of
 ## Discussions and Issues
 
 * Call issues and requests should be submitted here on the [Issues Page](./issues).
+
+## Requested Controlled Lists
+At this time the following controlled lists need to be setup to facilitate various core E-RIHS documentation processes:
+
+### In progress lists
+* service_readiness_level
+* natural_languages
+* support_activity_type
+
+### Required Lists
+* service_technique
+* service_platform
+* offered_to
+* national_node
+* research_disciplines
+* service_categories
+* service_functions
+* service_link_type
+* service_keywords - needs to be treated differently - example list
+* service_access_unit
+* Research Category
+* project state
+* participant role
+* examination type (object/Archive/Data)
+* Technique
+* Condition Class/State/Value (Possibly several lists see model notes)
+* Actor Type
+
