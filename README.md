@@ -42,4 +42,5 @@ At this time the following controlled lists need to be setup to facilitate vario
 * Technique
 * Condition Class/State/Value (Possibly several lists see model notes)
 * Actor Type
+* Societal challenges
 
